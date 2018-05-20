@@ -1,0 +1,82 @@
+/*Aquí se da el estilo predeterminado*/
+*{
+	margin: 0;
+	padding: 0px;
+}
+/*Aquí se da el estilo a los párrafos*/
+p{
+	font-size: 18px;
+	font-family: sans-serif;
+
+}
+/*Aquí se da el color de fondo a la página 1*/
+.pag1{
+	background-color: rgb(243,198,179);
+}
+/*Aquí se da el color de fondo a la página 2*/
+.pag2{
+	background-color: rgb(253,131,125);
+}
+/*Aquí se da el color de fondo a la página 3*/
+.pag3{
+	background-color: rgb();
+}
+/*Aquí se da la posición y el color de fondo al menú*/
+.menu-container{
+	padding-top: 50px;
+	background-color: rgb(243,198,179);
+
+}
+/*Aquí se le da la alineación, el tamaño de fuente y 
+la familia de la fuente a la opciones del menu*/
+.menu-opcion{
+	text-align: center;
+	font-size: 16px;
+	font-family: sans-serif;
+}
+/*Aquí se le da la alineación, el tamaño de fuente y 
+la familia de la fuente al menu lateral*/
+.menu-lateral{
+	font-size: 16px;
+	padding-top: 150px;
+	padding-left: 0px;
+	font-family: sans-serif;
+	background-color: rgb(243,198,179);
+}
+/*Aquí se le da la alineación y color de fondo
+ a las opciones del menu lateral*/
+.menu-lateral li{
+	text-align: center;
+	background: rgb(255,255,255);
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+/*Aquí se le da el estilo de botón al sign up*/
+.menu-opcion-s{
+	text-align: center;
+	font-size: 16px;
+	font-family: sans-serif;
+	height: 30px;
+	background-color: rgb(255,255,255);
+}
+/*Aquí se le da el estilo y posición al logo*/
+.menu-logo{
+	padding-left: 0px;
+	font-size: 30px;
+	font-family: sans-serif;
+}
+/*Aquí se le dá la posición al título*/
+.titulo{
+	padding: 25px;
+}
+/*Se le da el espaciado a la tabla de nutricion*/
+.nutricion{
+	padding-bottom: 20px;
+}
+/*Se le da el espaciado y todo el estilo al título de nutricion*/
+.nutricion-tit{
+	padding-bottom: 10px;
+	font-size: 18px;
+	font-variant: bold;
+	border-bottom: 2px solid;
+}
